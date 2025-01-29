@@ -1,3 +1,10 @@
-var i=4;
-console.log(i);
 
+import React from 'react'
+
+const index = () => {
+  return (
+    <div>index</div>
+  )
+}
+
+export default index
